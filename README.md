@@ -28,3 +28,5 @@ The features of the app are-
 5. Report : Users can see their reports of their spending history and budget progress.
 
 6. Reminders: Users can set reminders for recurring expenses and income.
+
+<img src ="https://github.com/Bhanubpsn/Images_for_projects/blob/master/Budget%20Tracker/Screenshot_2023-06-03-14-56-39-69_1cc178d732af0880cd4ddc0f968a556b.jpg">
