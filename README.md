@@ -29,4 +29,7 @@ The features of the app are-
 
 6. Reminders: Users can set reminders for recurring expenses and income.
 
+The app recording is available here - 
+https://drive.google.com/file/d/1dPxULymN9FdrDpmgv2QhWd1TbgT6ntAS/view?usp=sharing
+
 <img src ="https://github.com/Bhanubpsn/Images_for_projects/blob/master/Budget%20Tracker/Screenshot_2023-06-03-14-56-39-69_1cc178d732af0880cd4ddc0f968a556b.jpg">
